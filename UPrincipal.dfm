@@ -78,10 +78,10 @@ object FrmCadastro: TFrmCadastro
     TabOrder = 3
     object BitBtn3: TBitBtn
       Left = 5
-      Top = 107
+      Top = 83
       Width = 169
       Height = 33
-      Caption = 'Cadastro de Cliente'
+      Caption = '   Castro de Cliente           '
       Glyph.Data = {
         A2070000424DA207000000000000360000002800000019000000190000000100
         1800000000006C070000232E0000232E00000000000000000001FEFEFEFDFDFD
@@ -149,10 +149,10 @@ object FrmCadastro: TFrmCadastro
     end
     object BitBtn4: TBitBtn
       Left = 5
-      Top = 145
+      Top = 151
       Width = 169
       Height = 33
-      Caption = 'Cadastro de Cliente'
+      Caption = '   Iniciar Vendas PDV         '
       Glyph.Data = {
         A2070000424DA207000000000000360000002800000019000000190000000100
         1800000000006C070000232E0000232E00000000000000000001FEFEFEFDFDFD
@@ -220,7 +220,7 @@ object FrmCadastro: TFrmCadastro
     end
     object TPanel
       Left = 10
-      Top = 92
+      Top = 131
       Width = 158
       Height = 3
       BevelInner = bvLowered
@@ -376,7 +376,7 @@ object FrmCadastro: TFrmCadastro
     Top = 104
     Width = 169
     Height = 33
-    Caption = 'Cadastro de Cliente'
+    Caption = 'Cadastro de Funcion'#225'rios'
     Glyph.Data = {
       A2070000424DA207000000000000360000002800000019000000190000000100
       1800000000006C070000232E0000232E00000000000000000001FEFEFEFDFDFD
@@ -447,7 +447,7 @@ object FrmCadastro: TFrmCadastro
     Top = 142
     Width = 169
     Height = 33
-    Caption = 'Cadastro de Cliente'
+    Caption = '  Cadastro de Produtos    '
     Glyph.Data = {
       A2070000424DA207000000000000360000002800000019000000190000000100
       1800000000006C070000232E0000232E00000000000000000001FEFEFEFDFDFD
