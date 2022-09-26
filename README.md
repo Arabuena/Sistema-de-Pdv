@@ -1,5 +1,5 @@
 # Sistema-de-Pdv
-Sistema de vendas e frete de caixa
+Sistema de vendas e frente de caixa
 Primeiro commit
 <<<<<<< HEAD
 Testando a branch formpdv
